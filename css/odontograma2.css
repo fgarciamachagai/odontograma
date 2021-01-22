@@ -1,0 +1,5828 @@
+.mediaViewInfo {
+	--web-view-name: iPad Pro de 11" – 1;
+	--web-view-id: iPad_Pro_de_11__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-navigate-on-keypress: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: iPad_Pro_de_11__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.iPad_Pro_de_11__1_Class {
+	position: absolute;
+	width: 875px;
+	height: 736px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: iPad Pro de 11" – 1;
+	--web-view-id: iPad_Pro_de_11__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-navigate-on-keypress: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+.ID18_Class {
+	left: 118px;
+	top: 297px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+.ID17_Class {
+	left: 160px;
+	top: 297px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+.ID16_Class {
+	left: 202px;
+	top: 297px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+.ID15_Class {
+	left: 244px;
+	top: 297px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+.ID14_Class {
+	left: 286px;
+	top: 297px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+.ID13_Class {
+	left: 328px;
+	top: 297px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+.ID12_Class {
+	left: 370px;
+	top: 297px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+.ID11_Class {
+	left: 412px;
+	top: 297px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+.ID21_Class {
+	left: 454px;
+	top: 297px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+.ID22_Class {
+	left: 496px;
+	top: 297px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+.ID23_Class {
+	left: 538px;
+	top: 297px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+.ID24_Class {
+	left: 580px;
+	top: 297px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+.ID25_Class {
+	left: 622px;
+	top: 297px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+.ID26_Class {
+	left: 664px;
+	top: 297px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+.ID27_Class {
+	left: 706px;
+	top: 297px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+.ID28_Class {
+	left: 748px;
+	top: 297px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+.ID48_Class {
+	left: 120px;
+	top: 419px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+.ID47_Class {
+	left: 162px;
+	top: 419px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+.ID46_Class {
+	left: 204px;
+	top: 419px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+.ID45_Class {
+	left: 246px;
+	top: 419px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+.ID44_Class {
+	left: 288px;
+	top: 419px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+.ID43_Class {
+	left: 330px;
+	top: 419px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+.ID42_Class {
+	left: 372px;
+	top: 419px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+.ID41_Class {
+	left: 414px;
+	top: 419px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+.ID31_Class {
+	left: 456px;
+	top: 419px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+.ID32_Class {
+	left: 498px;
+	top: 419px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+.ID33_Class {
+	left: 540px;
+	top: 419px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+.ID34_Class {
+	left: 582px;
+	top: 419px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+.ID35_Class {
+	left: 624px;
+	top: 419px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+.ID36_Class {
+	left: 666px;
+	top: 419px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+.ID37_Class {
+	left: 708px;
+	top: 419px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+.ID38_Class {
+	left: 750px;
+	top: 419px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+.diente-48_Class {
+	fill: rgba(179,255,205,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.diente-48 {
+	overflow: visible;
+	position: absolute;
+	width: 35.884px;
+	height: 67.247px;
+	left: 107.413px;
+	top: 449.271px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.diente-47_Class {
+	fill: rgba(179,255,205,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.diente-47 {
+	overflow: visible;
+	position: absolute;
+	width: 38.012px;
+	height: 69.987px;
+	left: 148.383px;
+	top: 451.114px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.diente-46_Class {
+	fill: rgba(179,255,205,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.diente-46 {
+	overflow: visible;
+	position: absolute;
+	width: 41.126px;
+	height: 73.977px;
+	left: 190.603px;
+	top: 451.663px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.diente-45_Class {
+	fill: rgba(179,255,205,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.diente-45 {
+	overflow: visible;
+	position: absolute;
+	width: 24.061px;
+	height: 82.894px;
+	left: 241.904px;
+	top: 445.946px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.diente-44_Class {
+	fill: rgba(179,255,205,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.diente-44 {
+	overflow: visible;
+	position: absolute;
+	width: 22.931px;
+	height: 78.172px;
+	left: 283.39px;
+	top: 446.961px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.diente-43_Class {
+	fill: rgba(179,255,205,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.diente-43 {
+	overflow: visible;
+	position: absolute;
+	width: 27.182px;
+	height: 91.312px;
+	left: 323.202px;
+	top: 441.543px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.diente-42_Class {
+	fill: rgba(179,255,205,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.diente-42 {
+	overflow: visible;
+	position: absolute;
+	width: 22.338px;
+	height: 77.788px;
+	left: 367.452px;
+	top: 441.173px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.diente-41_Class {
+	fill: rgba(179,255,205,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.diente-41 {
+	overflow: visible;
+	position: absolute;
+	width: 18.401px;
+	height: 75.316px;
+	left: 412.032px;
+	top: 440.776px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.diente-38_Class {
+	fill: rgba(179,255,205,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.diente-38 {
+	overflow: visible;
+	position: absolute;
+	width: 35.884px;
+	height: 67.247px;
+	left: 741.082px;
+	top: 449.271px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.diente-37_Class {
+	fill: rgba(179,255,205,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.diente-37 {
+	overflow: visible;
+	position: absolute;
+	width: 38.012px;
+	height: 69.987px;
+	left: 698.054px;
+	top: 451.114px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.diente-36_Class {
+	fill: rgba(179,255,205,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.diente-36 {
+	overflow: visible;
+	position: absolute;
+	width: 41.126px;
+	height: 73.977px;
+	left: 652.792px;
+	top: 451.663px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.diente-35_Class {
+	fill: rgba(179,255,205,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.diente-35 {
+	overflow: visible;
+	position: absolute;
+	width: 24.061px;
+	height: 82.894px;
+	left: 618.638px;
+	top: 445.946px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.diente-33_Class {
+	fill: rgba(179,255,205,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.diente-33 {
+	overflow: visible;
+	position: absolute;
+	width: 27.182px;
+	height: 91.312px;
+	left: 533.281px;
+	top: 441.543px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.diente-34_Class {
+	fill: rgba(179,255,205,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.diente-34 {
+	overflow: visible;
+	position: absolute;
+	width: 22.931px;
+	height: 78.172px;
+	left: 578.414px;
+	top: 446.961px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.diente-32_Class {
+	fill: rgba(179,255,205,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.diente-32 {
+	overflow: visible;
+	position: absolute;
+	width: 22.338px;
+	height: 77.788px;
+	left: 495.006px;
+	top: 441.173px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.diente-31_Class {
+	fill: rgba(179,255,205,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.diente-31 {
+	overflow: visible;
+	position: absolute;
+	width: 18.401px;
+	height: 75.316px;
+	left: 454.43px;
+	top: 440.776px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.diente-28_Class {
+	fill: rgba(179,255,205,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.diente-28 {
+	overflow: visible;
+	position: absolute;
+	width: 33.719px;
+	height: 64.818px;
+	left: 741.082px;
+	top: 221.41px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.diente-27_Class {
+	fill: rgba(179,255,205,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.diente-27 {
+	overflow: visible;
+	position: absolute;
+	width: 36.449px;
+	height: 72.79px;
+	left: 698.879px;
+	top: 211.607px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.diente-26_Class {
+	fill: rgba(179,255,205,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.diente-26 {
+	overflow: visible;
+	position: absolute;
+	width: 41.867px;
+	height: 75.731px;
+	left: 653.951px;
+	top: 207.717px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.diente-25_Class {
+	fill: rgba(179,255,205,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.diente-25 {
+	overflow: visible;
+	position: absolute;
+	width: 23.086px;
+	height: 72.903px;
+	left: 619.734px;
+	top: 215.948px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.diente-24_Class {
+	fill: rgba(179,255,205,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.diente-24 {
+	overflow: visible;
+	position: absolute;
+	width: 24.041px;
+	height: 72.387px;
+	left: 576.092px;
+	top: 216.603px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.diente-23_Class {
+	fill: rgba(179,255,205,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.diente-23 {
+	overflow: visible;
+	position: absolute;
+	width: 31.391px;
+	height: 91.297px;
+	left: 531.636px;
+	top: 203.593px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.diente-22_Class {
+	fill: rgba(179,255,205,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.diente-22 {
+	overflow: visible;
+	position: absolute;
+	width: 22.769px;
+	height: 74.713px;
+	left: 494.202px;
+	top: 221.393px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.diente-21_Class {
+	fill: rgba(179,255,205,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.diente-21 {
+	overflow: visible;
+	position: absolute;
+	width: 28.369px;
+	height: 79.528px;
+	left: 449.175px;
+	top: 215.942px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.diente-18_Class {
+	fill: rgba(179,255,205,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.diente-18 {
+	overflow: visible;
+	position: absolute;
+	width: 33.719px;
+	height: 64.818px;
+	left: 110.814px;
+	top: 221.41px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.diente-17_Class {
+	fill: rgba(179,255,205,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.diente-17 {
+	overflow: visible;
+	position: absolute;
+	width: 36.449px;
+	height: 72.79px;
+	left: 149.398px;
+	top: 211.607px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.diente-16_Class {
+	fill: rgba(179,255,205,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.diente-16 {
+	overflow: visible;
+	position: absolute;
+	width: 41.867px;
+	height: 75.731px;
+	left: 188.817px;
+	top: 207.717px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.diente-15_Class {
+	fill: rgba(179,255,205,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.diente-15 {
+	overflow: visible;
+	position: absolute;
+	width: 23.086px;
+	height: 72.903px;
+	left: 241.715px;
+	top: 215.948px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.diente-14_Class {
+	fill: rgba(179,255,205,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.diente-14 {
+	overflow: visible;
+	position: absolute;
+	width: 24.041px;
+	height: 72.387px;
+	left: 284.313px;
+	top: 216.603px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.diente-13_Class {
+	fill: rgba(179,255,205,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.diente-13 {
+	overflow: visible;
+	position: absolute;
+	width: 31.391px;
+	height: 91.297px;
+	left: 321.33px;
+	top: 203.593px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.diente-12_Class {
+	fill: rgba(179,255,205,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.diente-12 {
+	overflow: visible;
+	position: absolute;
+	width: 22.769px;
+	height: 74.713px;
+	left: 367.299px;
+	top: 221.393px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.diente-11_Class {
+	fill: rgba(179,255,205,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.diente-11 {
+	overflow: visible;
+	position: absolute;
+	width: 28.369px;
+	height: 79.528px;
+	left: 406.631px;
+	top: 215.942px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.selec-caras-diente-48_Class {
+	position: absolute;
+	width: 30px;
+	height: 29.78px;
+	left: 112px;
+	top: 392px;
+	overflow: visible;
+}
+.Distal_Class {
+	position: absolute;
+	width: 9.694px;
+	height: 24.109px;
+	left: 0px;
+	top: 2.883px;
+	overflow: visible;
+}
+.Trazado_5_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_5 {
+	overflow: visible;
+	position: absolute;
+	width: 24.109px;
+	height: 9.694px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2071,7.2071) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Palatina_Class {
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	left: 3.007px;
+	top: 20.28px;
+	overflow: visible;
+}
+.Trazado_2_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_2 {
+	overflow: visible;
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Mesial_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 20.394px;
+	top: 2.908px;
+	overflow: visible;
+}
+.Componente_8__1_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_3_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_3 {
+	overflow: visible;
+	position: absolute;
+	width: 24.089px;
+	height: 9.606px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2415,7.2415) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Vestibular_Class {
+	position: absolute;
+	width: 24.081px;
+	height: 9.498px;
+	left: 2.92px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_1_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1 {
+	overflow: visible;
+	position: absolute;
+	width: 25.081px;
+	height: 10.502px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Oclusal_Class {
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 7.74px;
+	top: 7.72px;
+	overflow: visible;
+}
+.Trazado_1_cl_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(3,3,3,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_cl {
+	overflow: visible;
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.selec-caras-diente-47_Class {
+	position: absolute;
+	width: 30px;
+	height: 29.78px;
+	left: 154px;
+	top: 392px;
+	overflow: visible;
+}
+.Distal_cn_Class {
+	position: absolute;
+	width: 9.694px;
+	height: 24.109px;
+	left: 0px;
+	top: 2.883px;
+	overflow: visible;
+}
+.Trazado_5_co_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_5_co {
+	overflow: visible;
+	position: absolute;
+	width: 24.109px;
+	height: 9.694px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2071,7.2071) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Palatina_cp_Class {
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	left: 3.007px;
+	top: 20.28px;
+	overflow: visible;
+}
+.Trazado_2_cq_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_2_cq {
+	overflow: visible;
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Mesial_cr_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 20.394px;
+	top: 2.908px;
+	overflow: visible;
+}
+.Componente_8__1_cs_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_3_ct_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_3_ct {
+	overflow: visible;
+	position: absolute;
+	width: 24.089px;
+	height: 9.606px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2415,7.2415) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Vestibular_cu_Class {
+	position: absolute;
+	width: 24.081px;
+	height: 9.498px;
+	left: 2.92px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_1_cv_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_cv {
+	overflow: visible;
+	position: absolute;
+	width: 25.081px;
+	height: 10.502px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Oclusal_cw_Class {
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 7.74px;
+	top: 7.72px;
+	overflow: visible;
+}
+.Trazado_1_cx_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(3,3,3,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_cx {
+	overflow: visible;
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.selec-caras-diente-46_Class {
+	position: absolute;
+	width: 30px;
+	height: 29.78px;
+	left: 196px;
+	top: 391px;
+	overflow: visible;
+}
+.Distal_cz_Class {
+	position: absolute;
+	width: 9.694px;
+	height: 24.109px;
+	left: 0px;
+	top: 2.883px;
+	overflow: visible;
+}
+.Trazado_5_c_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_5_c {
+	overflow: visible;
+	position: absolute;
+	width: 24.109px;
+	height: 9.694px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2071,7.2071) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Palatina_c_Class {
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	left: 3.007px;
+	top: 20.28px;
+	overflow: visible;
+}
+.Trazado_2_c_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_2_c {
+	overflow: visible;
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Mesial_c_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 20.394px;
+	top: 2.908px;
+	overflow: visible;
+}
+.Componente_8__1_c_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_3_c_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_3_c {
+	overflow: visible;
+	position: absolute;
+	width: 24.089px;
+	height: 9.606px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2415,7.2415) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Vestibular_c_Class {
+	position: absolute;
+	width: 24.081px;
+	height: 9.498px;
+	left: 2.92px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_1_c_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_c {
+	overflow: visible;
+	position: absolute;
+	width: 25.081px;
+	height: 10.502px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Oclusal_c_Class {
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 7.74px;
+	top: 7.72px;
+	overflow: visible;
+}
+.Trazado_1_da_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(3,3,3,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_da {
+	overflow: visible;
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.selec-caras-diente-45_Class {
+	position: absolute;
+	width: 30px;
+	height: 29.78px;
+	left: 238px;
+	top: 391px;
+	overflow: visible;
+}
+.Distal_db_Class {
+	position: absolute;
+	width: 9.694px;
+	height: 24.109px;
+	left: 0px;
+	top: 2.883px;
+	overflow: visible;
+}
+.Trazado_5_dc_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_5_dc {
+	overflow: visible;
+	position: absolute;
+	width: 24.109px;
+	height: 9.694px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2071,7.2071) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Palatina_dd_Class {
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	left: 3.007px;
+	top: 20.28px;
+	overflow: visible;
+}
+.Trazado_2_de_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_2_de {
+	overflow: visible;
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Mesial_df_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 20.394px;
+	top: 2.908px;
+	overflow: visible;
+}
+.Componente_8__1_dg_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_3_dh_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_3_dh {
+	overflow: visible;
+	position: absolute;
+	width: 24.089px;
+	height: 9.606px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2415,7.2415) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Vestibular_di_Class {
+	position: absolute;
+	width: 24.081px;
+	height: 9.498px;
+	left: 2.92px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_1_dj_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_dj {
+	overflow: visible;
+	position: absolute;
+	width: 25.081px;
+	height: 10.502px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Oclusal_dk_Class {
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 7.74px;
+	top: 7.72px;
+	overflow: visible;
+}
+.Trazado_1_dl_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(3,3,3,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_dl {
+	overflow: visible;
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.selec-caras-diente-44_Class {
+	position: absolute;
+	width: 30px;
+	height: 29.78px;
+	left: 280px;
+	top: 391px;
+	overflow: visible;
+}
+.Distal_dn_Class {
+	position: absolute;
+	width: 9.694px;
+	height: 24.109px;
+	left: 0px;
+	top: 2.883px;
+	overflow: visible;
+}
+.Trazado_5_do_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_5_do {
+	overflow: visible;
+	position: absolute;
+	width: 24.109px;
+	height: 9.694px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2071,7.2071) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Palatina_dp_Class {
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	left: 3.007px;
+	top: 20.28px;
+	overflow: visible;
+}
+.Trazado_2_dq_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_2_dq {
+	overflow: visible;
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Mesial_dr_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 20.394px;
+	top: 2.908px;
+	overflow: visible;
+}
+.Componente_8__1_ds_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_3_dt_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_3_dt {
+	overflow: visible;
+	position: absolute;
+	width: 24.089px;
+	height: 9.606px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2415,7.2415) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Vestibular_du_Class {
+	position: absolute;
+	width: 24.081px;
+	height: 9.498px;
+	left: 2.92px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_1_dv_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_dv {
+	overflow: visible;
+	position: absolute;
+	width: 25.081px;
+	height: 10.502px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Oclusal_dw_Class {
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 7.74px;
+	top: 7.72px;
+	overflow: visible;
+}
+.Trazado_1_dx_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(3,3,3,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_dx {
+	overflow: visible;
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.selec-caras-diente-43_Class {
+	position: absolute;
+	width: 30px;
+	height: 29.78px;
+	left: 322px;
+	top: 391px;
+	overflow: visible;
+}
+.Distal_dz_Class {
+	position: absolute;
+	width: 9.694px;
+	height: 24.109px;
+	left: 0px;
+	top: 2.883px;
+	overflow: visible;
+}
+.Trazado_5_d_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_5_d {
+	overflow: visible;
+	position: absolute;
+	width: 24.109px;
+	height: 9.694px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2071,7.2071) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Palatina_d_Class {
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	left: 3.007px;
+	top: 20.28px;
+	overflow: visible;
+}
+.Trazado_2_d_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_2_d {
+	overflow: visible;
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Mesial_d_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 20.394px;
+	top: 2.908px;
+	overflow: visible;
+}
+.Componente_8__1_d_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_3_d_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_3_d {
+	overflow: visible;
+	position: absolute;
+	width: 24.089px;
+	height: 9.606px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2415,7.2415) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Vestibular_d_Class {
+	position: absolute;
+	width: 24.081px;
+	height: 9.498px;
+	left: 2.92px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_1_d_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_d {
+	overflow: visible;
+	position: absolute;
+	width: 25.081px;
+	height: 10.502px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Oclusal_d_Class {
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 7.74px;
+	top: 7.72px;
+	overflow: visible;
+}
+.Trazado_1_ea_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(3,3,3,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_ea {
+	overflow: visible;
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.selec-caras-diente-42_Class {
+	position: absolute;
+	width: 30px;
+	height: 29.78px;
+	left: 364px;
+	top: 390px;
+	overflow: visible;
+}
+.Distal_eb_Class {
+	position: absolute;
+	width: 9.694px;
+	height: 24.109px;
+	left: 0px;
+	top: 2.883px;
+	overflow: visible;
+}
+.Trazado_5_ec_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_5_ec {
+	overflow: visible;
+	position: absolute;
+	width: 24.109px;
+	height: 9.694px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2071,7.2071) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Palatina_ed_Class {
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	left: 3.007px;
+	top: 20.28px;
+	overflow: visible;
+}
+.Trazado_2_ee_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_2_ee {
+	overflow: visible;
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Mesial_ef_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 20.394px;
+	top: 2.908px;
+	overflow: visible;
+}
+.Componente_8__1_eg_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_3_eh_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_3_eh {
+	overflow: visible;
+	position: absolute;
+	width: 24.089px;
+	height: 9.606px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2415,7.2415) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Vestibular_ei_Class {
+	position: absolute;
+	width: 24.081px;
+	height: 9.498px;
+	left: 2.92px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_1_ej_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_ej {
+	overflow: visible;
+	position: absolute;
+	width: 25.081px;
+	height: 10.502px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Oclusal_ek_Class {
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 7.74px;
+	top: 7.72px;
+	overflow: visible;
+}
+.Trazado_1_el_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(3,3,3,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_el {
+	overflow: visible;
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.selec-caras-diente-41_Class {
+	position: absolute;
+	width: 30px;
+	height: 29.78px;
+	left: 406px;
+	top: 390px;
+	overflow: visible;
+}
+.Distal_en_Class {
+	position: absolute;
+	width: 9.694px;
+	height: 24.109px;
+	left: 0px;
+	top: 2.883px;
+	overflow: visible;
+}
+.Trazado_5_eo_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_5_eo {
+	overflow: visible;
+	position: absolute;
+	width: 24.109px;
+	height: 9.694px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2071,7.2071) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Palatina_ep_Class {
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	left: 3.007px;
+	top: 20.28px;
+	overflow: visible;
+}
+.Trazado_2_eq_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_2_eq {
+	overflow: visible;
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Mesial_er_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 20.394px;
+	top: 2.908px;
+	overflow: visible;
+}
+.Componente_8__1_es_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_3_et_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_3_et {
+	overflow: visible;
+	position: absolute;
+	width: 24.089px;
+	height: 9.606px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2415,7.2415) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Vestibular_eu_Class {
+	position: absolute;
+	width: 24.081px;
+	height: 9.498px;
+	left: 2.92px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_1_ev_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_ev {
+	overflow: visible;
+	position: absolute;
+	width: 25.081px;
+	height: 10.502px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Oclusal_ew_Class {
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 7.74px;
+	top: 7.72px;
+	overflow: visible;
+}
+.Trazado_1_ex_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(3,3,3,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_ex {
+	overflow: visible;
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.selec-caras-diente-38_Class {
+	position: absolute;
+	width: 30px;
+	height: 29.78px;
+	left: 742px;
+	top: 388px;
+	overflow: visible;
+}
+.Distal_ez_Class {
+	position: absolute;
+	width: 9.694px;
+	height: 24.109px;
+	left: 0px;
+	top: 2.883px;
+	overflow: visible;
+}
+.Trazado_5_e_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_5_e {
+	overflow: visible;
+	position: absolute;
+	width: 24.109px;
+	height: 9.694px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2071,7.2071) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Palatina_e_Class {
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	left: 3.007px;
+	top: 20.28px;
+	overflow: visible;
+}
+.Trazado_2_e_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_2_e {
+	overflow: visible;
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Mesial_e_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 20.394px;
+	top: 2.908px;
+	overflow: visible;
+}
+.Componente_8__1_e_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_3_e_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_3_e {
+	overflow: visible;
+	position: absolute;
+	width: 24.089px;
+	height: 9.606px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2415,7.2415) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Vestibular_e_Class {
+	position: absolute;
+	width: 24.081px;
+	height: 9.498px;
+	left: 2.92px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_1_e_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_e {
+	overflow: visible;
+	position: absolute;
+	width: 25.081px;
+	height: 10.502px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Oclusal_e_Class {
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 7.74px;
+	top: 7.72px;
+	overflow: visible;
+}
+.Trazado_1_fa_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(3,3,3,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_fa {
+	overflow: visible;
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.selec-caras-diente-37_Class {
+	position: absolute;
+	width: 30px;
+	height: 29.78px;
+	left: 700px;
+	top: 388px;
+	overflow: visible;
+}
+.Distal_fb_Class {
+	position: absolute;
+	width: 9.694px;
+	height: 24.109px;
+	left: 0px;
+	top: 2.883px;
+	overflow: visible;
+}
+.Trazado_5_fc_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_5_fc {
+	overflow: visible;
+	position: absolute;
+	width: 24.109px;
+	height: 9.694px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2071,7.2071) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Palatina_fd_Class {
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	left: 3.007px;
+	top: 20.28px;
+	overflow: visible;
+}
+.Trazado_2_fe_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_2_fe {
+	overflow: visible;
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Mesial_ff_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 20.394px;
+	top: 2.908px;
+	overflow: visible;
+}
+.Componente_8__1_fg_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_3_fh_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_3_fh {
+	overflow: visible;
+	position: absolute;
+	width: 24.089px;
+	height: 9.606px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2415,7.2415) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Vestibular_fi_Class {
+	position: absolute;
+	width: 24.081px;
+	height: 9.498px;
+	left: 2.92px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_1_fj_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_fj {
+	overflow: visible;
+	position: absolute;
+	width: 25.081px;
+	height: 10.502px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Oclusal_fk_Class {
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 7.74px;
+	top: 7.72px;
+	overflow: visible;
+}
+.Trazado_1_fl_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(3,3,3,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_fl {
+	overflow: visible;
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.selec-caras-diente-36_Class {
+	position: absolute;
+	width: 30px;
+	height: 29.78px;
+	left: 658px;
+	top: 389px;
+	overflow: visible;
+}
+.Distal_fn_Class {
+	position: absolute;
+	width: 9.694px;
+	height: 24.109px;
+	left: 0px;
+	top: 2.883px;
+	overflow: visible;
+}
+.Trazado_5_fo_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_5_fo {
+	overflow: visible;
+	position: absolute;
+	width: 24.109px;
+	height: 9.694px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2071,7.2071) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Palatina_fp_Class {
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	left: 3.007px;
+	top: 20.28px;
+	overflow: visible;
+}
+.Trazado_2_fq_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_2_fq {
+	overflow: visible;
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Mesial_fr_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 20.394px;
+	top: 2.908px;
+	overflow: visible;
+}
+.Componente_8__1_fs_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_3_ft_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_3_ft {
+	overflow: visible;
+	position: absolute;
+	width: 24.089px;
+	height: 9.606px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2415,7.2415) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Vestibular_fu_Class {
+	position: absolute;
+	width: 24.081px;
+	height: 9.498px;
+	left: 2.92px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_1_fv_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_fv {
+	overflow: visible;
+	position: absolute;
+	width: 25.081px;
+	height: 10.502px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Oclusal_fw_Class {
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 7.74px;
+	top: 7.72px;
+	overflow: visible;
+}
+.Trazado_1_fx_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(3,3,3,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_fx {
+	overflow: visible;
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.selec-caras-diente-35_Class {
+	position: absolute;
+	width: 30px;
+	height: 29.78px;
+	left: 616px;
+	top: 389px;
+	overflow: visible;
+}
+.Distal_fz_Class {
+	position: absolute;
+	width: 9.694px;
+	height: 24.109px;
+	left: 0px;
+	top: 2.883px;
+	overflow: visible;
+}
+.Trazado_5_f_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_5_f {
+	overflow: visible;
+	position: absolute;
+	width: 24.109px;
+	height: 9.694px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2071,7.2071) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Palatina_f_Class {
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	left: 3.007px;
+	top: 20.28px;
+	overflow: visible;
+}
+.Trazado_2_f_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_2_f {
+	overflow: visible;
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Mesial_f_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 20.394px;
+	top: 2.908px;
+	overflow: visible;
+}
+.Componente_8__1_f_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_3_f_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_3_f {
+	overflow: visible;
+	position: absolute;
+	width: 24.089px;
+	height: 9.606px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2415,7.2415) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Vestibular_f_Class {
+	position: absolute;
+	width: 24.081px;
+	height: 9.498px;
+	left: 2.92px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_1_f_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_f {
+	overflow: visible;
+	position: absolute;
+	width: 25.081px;
+	height: 10.502px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Oclusal_f_Class {
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 7.74px;
+	top: 7.72px;
+	overflow: visible;
+}
+.Trazado_1_ga_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(3,3,3,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_ga {
+	overflow: visible;
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.selec-caras-diente-34_Class {
+	position: absolute;
+	width: 30px;
+	height: 29.78px;
+	left: 574px;
+	top: 389px;
+	overflow: visible;
+}
+.Distal_gb_Class {
+	position: absolute;
+	width: 9.694px;
+	height: 24.109px;
+	left: 0px;
+	top: 2.883px;
+	overflow: visible;
+}
+.Trazado_5_gc_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_5_gc {
+	overflow: visible;
+	position: absolute;
+	width: 24.109px;
+	height: 9.694px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2071,7.2071) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Palatina_gd_Class {
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	left: 3.007px;
+	top: 20.28px;
+	overflow: visible;
+}
+.Trazado_2_ge_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_2_ge {
+	overflow: visible;
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Mesial_gf_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 20.394px;
+	top: 2.908px;
+	overflow: visible;
+}
+.Componente_8__1_gg_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_3_gh_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_3_gh {
+	overflow: visible;
+	position: absolute;
+	width: 24.089px;
+	height: 9.606px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2415,7.2415) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Vestibular_gi_Class {
+	position: absolute;
+	width: 24.081px;
+	height: 9.498px;
+	left: 2.92px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_1_gj_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_gj {
+	overflow: visible;
+	position: absolute;
+	width: 25.081px;
+	height: 10.502px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Oclusal_gk_Class {
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 7.74px;
+	top: 7.72px;
+	overflow: visible;
+}
+.Trazado_1_gl_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(3,3,3,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_gl {
+	overflow: visible;
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.selec-caras-diente-33_Class {
+	position: absolute;
+	width: 30px;
+	height: 29.78px;
+	left: 532px;
+	top: 389px;
+	overflow: visible;
+}
+.Distal_gn_Class {
+	position: absolute;
+	width: 9.694px;
+	height: 24.109px;
+	left: 0px;
+	top: 2.883px;
+	overflow: visible;
+}
+.Trazado_5_go_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_5_go {
+	overflow: visible;
+	position: absolute;
+	width: 24.109px;
+	height: 9.694px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2071,7.2071) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Palatina_gp_Class {
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	left: 3.007px;
+	top: 20.28px;
+	overflow: visible;
+}
+.Trazado_2_gq_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_2_gq {
+	overflow: visible;
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Mesial_gr_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 20.394px;
+	top: 2.908px;
+	overflow: visible;
+}
+.Componente_8__1_gs_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_3_gt_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_3_gt {
+	overflow: visible;
+	position: absolute;
+	width: 24.089px;
+	height: 9.606px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2415,7.2415) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Vestibular_gu_Class {
+	position: absolute;
+	width: 24.081px;
+	height: 9.498px;
+	left: 2.92px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_1_gv_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_gv {
+	overflow: visible;
+	position: absolute;
+	width: 25.081px;
+	height: 10.502px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Oclusal_gw_Class {
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 7.74px;
+	top: 7.72px;
+	overflow: visible;
+}
+.Trazado_1_gx_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(3,3,3,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_gx {
+	overflow: visible;
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.selec-caras-diente-32_Class {
+	position: absolute;
+	width: 30px;
+	height: 29.78px;
+	left: 490px;
+	top: 390px;
+	overflow: visible;
+}
+.Distal_gz_Class {
+	position: absolute;
+	width: 9.694px;
+	height: 24.109px;
+	left: 0px;
+	top: 2.883px;
+	overflow: visible;
+}
+.Trazado_5_g_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_5_g {
+	overflow: visible;
+	position: absolute;
+	width: 24.109px;
+	height: 9.694px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2071,7.2071) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Palatina_g_Class {
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	left: 3.007px;
+	top: 20.28px;
+	overflow: visible;
+}
+.Trazado_2_g_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_2_g {
+	overflow: visible;
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Mesial_g_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 20.394px;
+	top: 2.908px;
+	overflow: visible;
+}
+.Componente_8__1_g_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_3_g_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_3_g {
+	overflow: visible;
+	position: absolute;
+	width: 24.089px;
+	height: 9.606px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2415,7.2415) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Vestibular_g_Class {
+	position: absolute;
+	width: 24.081px;
+	height: 9.498px;
+	left: 2.92px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_1_g_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_g {
+	overflow: visible;
+	position: absolute;
+	width: 25.081px;
+	height: 10.502px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Oclusal_g_Class {
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 7.74px;
+	top: 7.72px;
+	overflow: visible;
+}
+.Trazado_1_ha_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(3,3,3,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_ha {
+	overflow: visible;
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.selec-caras-diente-31_Class {
+	position: absolute;
+	width: 30px;
+	height: 29.78px;
+	left: 448px;
+	top: 390px;
+	overflow: visible;
+}
+.Distal_hb_Class {
+	position: absolute;
+	width: 9.694px;
+	height: 24.109px;
+	left: 0px;
+	top: 2.883px;
+	overflow: visible;
+}
+.Trazado_5_hc_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_5_hc {
+	overflow: visible;
+	position: absolute;
+	width: 24.109px;
+	height: 9.694px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2071,7.2071) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Palatina_hd_Class {
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	left: 3.007px;
+	top: 20.28px;
+	overflow: visible;
+}
+.Trazado_2_he_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_2_he {
+	overflow: visible;
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Mesial_hf_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 20.394px;
+	top: 2.908px;
+	overflow: visible;
+}
+.Componente_8__1_hg_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_3_hh_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_3_hh {
+	overflow: visible;
+	position: absolute;
+	width: 24.089px;
+	height: 9.606px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2415,7.2415) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Vestibular_hi_Class {
+	position: absolute;
+	width: 24.081px;
+	height: 9.498px;
+	left: 2.92px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_1_hj_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_hj {
+	overflow: visible;
+	position: absolute;
+	width: 25.081px;
+	height: 10.502px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Oclusal_hk_Class {
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 7.74px;
+	top: 7.72px;
+	overflow: visible;
+}
+.Trazado_1_hl_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(3,3,3,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_hl {
+	overflow: visible;
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.selec-caras-diente-28_Class {
+	position: absolute;
+	width: 30px;
+	height: 29.78px;
+	left: 742px;
+	top: 319px;
+	overflow: visible;
+}
+.Distal_hn_Class {
+	position: absolute;
+	width: 9.694px;
+	height: 24.109px;
+	left: 0px;
+	top: 2.883px;
+	overflow: visible;
+}
+.Trazado_5_ho_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_5_ho {
+	overflow: visible;
+	position: absolute;
+	width: 24.109px;
+	height: 9.694px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2071,7.2071) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Palatina_hp_Class {
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	left: 3.007px;
+	top: 20.28px;
+	overflow: visible;
+}
+.Trazado_2_hq_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_2_hq {
+	overflow: visible;
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Mesial_hr_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 20.394px;
+	top: 2.908px;
+	overflow: visible;
+}
+.Componente_8__1_hs_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_3_ht_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_3_ht {
+	overflow: visible;
+	position: absolute;
+	width: 24.089px;
+	height: 9.606px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2415,7.2415) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Vestibular_hu_Class {
+	position: absolute;
+	width: 24.081px;
+	height: 9.498px;
+	left: 2.92px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_1_hv_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_hv {
+	overflow: visible;
+	position: absolute;
+	width: 25.081px;
+	height: 10.502px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Oclusal_hw_Class {
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 7.74px;
+	top: 7.72px;
+	overflow: visible;
+}
+.Trazado_1_hx_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(3,3,3,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_hx {
+	overflow: visible;
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.selec-caras-diente-27_Class {
+	position: absolute;
+	width: 30px;
+	height: 29.78px;
+	left: 700px;
+	top: 319px;
+	overflow: visible;
+}
+.Distal_hz_Class {
+	position: absolute;
+	width: 9.694px;
+	height: 24.109px;
+	left: 0px;
+	top: 2.883px;
+	overflow: visible;
+}
+.Trazado_5_h_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_5_h {
+	overflow: visible;
+	position: absolute;
+	width: 24.109px;
+	height: 9.694px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2071,7.2071) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Palatina_h_Class {
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	left: 3.007px;
+	top: 20.28px;
+	overflow: visible;
+}
+.Trazado_2_h_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_2_h {
+	overflow: visible;
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Mesial_h_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 20.394px;
+	top: 2.908px;
+	overflow: visible;
+}
+.Componente_8__1_h_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_3_h_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_3_h {
+	overflow: visible;
+	position: absolute;
+	width: 24.089px;
+	height: 9.606px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2415,7.2415) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Vestibular_h_Class {
+	position: absolute;
+	width: 24.081px;
+	height: 9.498px;
+	left: 2.92px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_1_h_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_h {
+	overflow: visible;
+	position: absolute;
+	width: 25.081px;
+	height: 10.502px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Oclusal_h_Class {
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 7.74px;
+	top: 7.72px;
+	overflow: visible;
+}
+.Trazado_1_ia_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(3,3,3,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_ia {
+	overflow: visible;
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.selec-caras-diente-26_Class {
+	position: absolute;
+	width: 30px;
+	height: 29.78px;
+	left: 658px;
+	top: 320px;
+	overflow: visible;
+}
+.Distal_ib_Class {
+	position: absolute;
+	width: 9.694px;
+	height: 24.109px;
+	left: 0px;
+	top: 2.883px;
+	overflow: visible;
+}
+.Trazado_5_ic_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_5_ic {
+	overflow: visible;
+	position: absolute;
+	width: 24.109px;
+	height: 9.694px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2071,7.2071) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Palatina_id_Class {
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	left: 3.007px;
+	top: 20.28px;
+	overflow: visible;
+}
+.Trazado_2_ie_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_2_ie {
+	overflow: visible;
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Mesial_if_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 20.394px;
+	top: 2.908px;
+	overflow: visible;
+}
+.Componente_8__1_ig_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_3_ih_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_3_ih {
+	overflow: visible;
+	position: absolute;
+	width: 24.089px;
+	height: 9.606px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2415,7.2415) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Vestibular_ii_Class {
+	position: absolute;
+	width: 24.081px;
+	height: 9.498px;
+	left: 2.92px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_1_ij_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_ij {
+	overflow: visible;
+	position: absolute;
+	width: 25.081px;
+	height: 10.502px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Oclusal_ik_Class {
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 7.74px;
+	top: 7.72px;
+	overflow: visible;
+}
+.Trazado_1_il_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(3,3,3,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_il {
+	overflow: visible;
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.selec-caras-diente-25_Class {
+	position: absolute;
+	width: 30px;
+	height: 29.78px;
+	left: 616px;
+	top: 320px;
+	overflow: visible;
+}
+.Distal_in_Class {
+	position: absolute;
+	width: 9.694px;
+	height: 24.109px;
+	left: 0px;
+	top: 2.883px;
+	overflow: visible;
+}
+.Trazado_5_io_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_5_io {
+	overflow: visible;
+	position: absolute;
+	width: 24.109px;
+	height: 9.694px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2071,7.2071) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Palatina_ip_Class {
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	left: 3.007px;
+	top: 20.28px;
+	overflow: visible;
+}
+.Trazado_2_iq_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_2_iq {
+	overflow: visible;
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Mesial_ir_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 20.394px;
+	top: 2.908px;
+	overflow: visible;
+}
+.Componente_8__1_is_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_3_it_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_3_it {
+	overflow: visible;
+	position: absolute;
+	width: 24.089px;
+	height: 9.606px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2415,7.2415) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Vestibular_iu_Class {
+	position: absolute;
+	width: 24.081px;
+	height: 9.498px;
+	left: 2.92px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_1_iv_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_iv {
+	overflow: visible;
+	position: absolute;
+	width: 25.081px;
+	height: 10.502px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Oclusal_iw_Class {
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 7.74px;
+	top: 7.72px;
+	overflow: visible;
+}
+.Trazado_1_ix_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(3,3,3,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_ix {
+	overflow: visible;
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.selec-caras-diente-24_Class {
+	position: absolute;
+	width: 30px;
+	height: 29.78px;
+	left: 574px;
+	top: 320px;
+	overflow: visible;
+}
+.Distal_iz_Class {
+	position: absolute;
+	width: 9.694px;
+	height: 24.109px;
+	left: 0px;
+	top: 2.883px;
+	overflow: visible;
+}
+.Trazado_5_i_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_5_i {
+	overflow: visible;
+	position: absolute;
+	width: 24.109px;
+	height: 9.694px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2071,7.2071) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Palatina_i_Class {
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	left: 3.007px;
+	top: 20.28px;
+	overflow: visible;
+}
+.Trazado_2_i_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_2_i {
+	overflow: visible;
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Mesial_i_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 20.394px;
+	top: 2.908px;
+	overflow: visible;
+}
+.Componente_8__1_i_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_3_i_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_3_i {
+	overflow: visible;
+	position: absolute;
+	width: 24.089px;
+	height: 9.606px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2415,7.2415) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Vestibular_i_Class {
+	position: absolute;
+	width: 24.081px;
+	height: 9.498px;
+	left: 2.92px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_1_i_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_i {
+	overflow: visible;
+	position: absolute;
+	width: 25.081px;
+	height: 10.502px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Oclusal_i_Class {
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 7.74px;
+	top: 7.72px;
+	overflow: visible;
+}
+.Trazado_1_ja_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(3,3,3,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_ja {
+	overflow: visible;
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.selec-caras-diente-23_Class {
+	position: absolute;
+	width: 30px;
+	height: 29.78px;
+	left: 532px;
+	top: 320px;
+	overflow: visible;
+}
+.Distal_jb_Class {
+	position: absolute;
+	width: 9.694px;
+	height: 24.109px;
+	left: 0px;
+	top: 2.883px;
+	overflow: visible;
+}
+.Trazado_5_jc_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_5_jc {
+	overflow: visible;
+	position: absolute;
+	width: 24.109px;
+	height: 9.694px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2071,7.2071) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Palatina_jd_Class {
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	left: 3.007px;
+	top: 20.28px;
+	overflow: visible;
+}
+.Trazado_2_je_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_2_je {
+	overflow: visible;
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Mesial_jf_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 20.394px;
+	top: 2.908px;
+	overflow: visible;
+}
+.Componente_8__1_jg_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_3_jh_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_3_jh {
+	overflow: visible;
+	position: absolute;
+	width: 24.089px;
+	height: 9.606px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2415,7.2415) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Vestibular_ji_Class {
+	position: absolute;
+	width: 24.081px;
+	height: 9.498px;
+	left: 2.92px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_1_jj_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_jj {
+	overflow: visible;
+	position: absolute;
+	width: 25.081px;
+	height: 10.502px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Oclusal_jk_Class {
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 7.74px;
+	top: 7.72px;
+	overflow: visible;
+}
+.Trazado_1_jl_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(3,3,3,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_jl {
+	overflow: visible;
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.selec-caras-diente-22_Class {
+	position: absolute;
+	width: 30px;
+	height: 29.78px;
+	left: 490px;
+	top: 321px;
+	overflow: visible;
+}
+.Distal_jn_Class {
+	position: absolute;
+	width: 9.694px;
+	height: 24.109px;
+	left: 0px;
+	top: 2.883px;
+	overflow: visible;
+}
+.Trazado_5_jo_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_5_jo {
+	overflow: visible;
+	position: absolute;
+	width: 24.109px;
+	height: 9.694px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2071,7.2071) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Palatina_jp_Class {
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	left: 3.007px;
+	top: 20.28px;
+	overflow: visible;
+}
+.Trazado_2_jq_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_2_jq {
+	overflow: visible;
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Mesial_jr_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 20.394px;
+	top: 2.908px;
+	overflow: visible;
+}
+.Componente_8__1_js_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_3_jt_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_3_jt {
+	overflow: visible;
+	position: absolute;
+	width: 24.089px;
+	height: 9.606px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2415,7.2415) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Vestibular_ju_Class {
+	position: absolute;
+	width: 24.081px;
+	height: 9.498px;
+	left: 2.92px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_1_jv_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_jv {
+	overflow: visible;
+	position: absolute;
+	width: 25.081px;
+	height: 10.502px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Oclusal_jw_Class {
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 7.74px;
+	top: 7.72px;
+	overflow: visible;
+}
+.Trazado_1_jx_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(3,3,3,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_jx {
+	overflow: visible;
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.selec-caras-diente-21_Class {
+	position: absolute;
+	width: 30px;
+	height: 29.78px;
+	left: 448px;
+	top: 321px;
+	overflow: visible;
+}
+.Distal_jz_Class {
+	position: absolute;
+	width: 9.694px;
+	height: 24.109px;
+	left: 0px;
+	top: 2.883px;
+	overflow: visible;
+}
+.Trazado_5_j_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_5_j {
+	overflow: visible;
+	position: absolute;
+	width: 24.109px;
+	height: 9.694px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2071,7.2071) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Palatina_j_Class {
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	left: 3.007px;
+	top: 20.28px;
+	overflow: visible;
+}
+.Trazado_2_j_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_2_j {
+	overflow: visible;
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Mesial_j_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 20.394px;
+	top: 2.908px;
+	overflow: visible;
+}
+.Componente_8__1_j_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_3_j_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_3_j {
+	overflow: visible;
+	position: absolute;
+	width: 24.089px;
+	height: 9.606px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2415,7.2415) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Vestibular_j_Class {
+	position: absolute;
+	width: 24.081px;
+	height: 9.498px;
+	left: 2.92px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_1_j_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_j {
+	overflow: visible;
+	position: absolute;
+	width: 25.081px;
+	height: 10.502px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Oclusal_j_Class {
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 7.74px;
+	top: 7.72px;
+	overflow: visible;
+}
+.Trazado_1_ka_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(3,3,3,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_ka {
+	overflow: visible;
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.selec-caras-diente-18_Class {
+	position: absolute;
+	width: 30px;
+	height: 29.78px;
+	left: 112px;
+	top: 323px;
+	overflow: visible;
+}
+.Distal_kb_Class {
+	position: absolute;
+	width: 9.694px;
+	height: 24.109px;
+	left: 0px;
+	top: 2.883px;
+	overflow: visible;
+}
+.Trazado_5_kc_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_5_kc {
+	overflow: visible;
+	position: absolute;
+	width: 24.109px;
+	height: 9.694px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2071,7.2071) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Palatina_kd_Class {
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	left: 3.007px;
+	top: 20.28px;
+	overflow: visible;
+}
+.Trazado_2_ke_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_2_ke {
+	overflow: visible;
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Mesial_kf_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 20.394px;
+	top: 2.908px;
+	overflow: visible;
+}
+.Componente_8__1_kg_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_3_kh_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_3_kh {
+	overflow: visible;
+	position: absolute;
+	width: 24.089px;
+	height: 9.606px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2415,7.2415) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Vestibular_ki_Class {
+	position: absolute;
+	width: 24.081px;
+	height: 9.498px;
+	left: 2.92px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_1_kj_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_kj {
+	overflow: visible;
+	position: absolute;
+	width: 25.081px;
+	height: 10.502px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Oclusal_kk_Class {
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 7.74px;
+	top: 7.72px;
+	overflow: visible;
+}
+.Trazado_1_kl_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(3,3,3,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_kl {
+	overflow: visible;
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.selec-caras-diente-17_Class {
+	position: absolute;
+	width: 30px;
+	height: 29.78px;
+	left: 154px;
+	top: 323px;
+	overflow: visible;
+}
+.Distal_kn_Class {
+	position: absolute;
+	width: 9.694px;
+	height: 24.109px;
+	left: 0px;
+	top: 2.883px;
+	overflow: visible;
+}
+.Trazado_5_ko_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_5_ko {
+	overflow: visible;
+	position: absolute;
+	width: 24.109px;
+	height: 9.694px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2071,7.2071) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Palatina_kp_Class {
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	left: 3.007px;
+	top: 20.28px;
+	overflow: visible;
+}
+.Trazado_2_kq_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_2_kq {
+	overflow: visible;
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Mesial_kr_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 20.394px;
+	top: 2.908px;
+	overflow: visible;
+}
+.Componente_8__1_ks_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_3_kt_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_3_kt {
+	overflow: visible;
+	position: absolute;
+	width: 24.089px;
+	height: 9.606px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2415,7.2415) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Vestibular_ku_Class {
+	position: absolute;
+	width: 24.081px;
+	height: 9.498px;
+	left: 2.92px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_1_kv_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_kv {
+	overflow: visible;
+	position: absolute;
+	width: 25.081px;
+	height: 10.502px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Oclusal_kw_Class {
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 7.74px;
+	top: 7.72px;
+	overflow: visible;
+}
+.Trazado_1_kx_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(3,3,3,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_kx {
+	overflow: visible;
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.selec-caras-diente-16_Class {
+	position: absolute;
+	width: 30px;
+	height: 29.78px;
+	left: 196px;
+	top: 322px;
+	overflow: visible;
+}
+.Distal_kz_Class {
+	position: absolute;
+	width: 9.694px;
+	height: 24.109px;
+	left: 0px;
+	top: 2.883px;
+	overflow: visible;
+}
+.Trazado_5_k_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_5_k {
+	overflow: visible;
+	position: absolute;
+	width: 24.109px;
+	height: 9.694px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2071,7.2071) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Palatina_k_Class {
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	left: 3.007px;
+	top: 20.28px;
+	overflow: visible;
+}
+.Trazado_2_k_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_2_k {
+	overflow: visible;
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Mesial_k_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 20.394px;
+	top: 2.908px;
+	overflow: visible;
+}
+.Componente_8__1_k_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_3_k_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_3_k {
+	overflow: visible;
+	position: absolute;
+	width: 24.089px;
+	height: 9.606px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2415,7.2415) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Vestibular_k_Class {
+	position: absolute;
+	width: 24.081px;
+	height: 9.498px;
+	left: 2.92px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_1_k_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_k {
+	overflow: visible;
+	position: absolute;
+	width: 25.081px;
+	height: 10.502px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Oclusal_k_Class {
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 7.74px;
+	top: 7.72px;
+	overflow: visible;
+}
+.Trazado_1_la_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(3,3,3,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_la {
+	overflow: visible;
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.selec-caras-diente-15_Class {
+	position: absolute;
+	width: 30px;
+	height: 29.78px;
+	left: 238px;
+	top: 322px;
+	overflow: visible;
+}
+.Distal_lb_Class {
+	position: absolute;
+	width: 9.694px;
+	height: 24.109px;
+	left: 0px;
+	top: 2.883px;
+	overflow: visible;
+}
+.Trazado_5_lc_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_5_lc {
+	overflow: visible;
+	position: absolute;
+	width: 24.109px;
+	height: 9.694px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2071,7.2071) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Palatina_ld_Class {
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	left: 3.007px;
+	top: 20.28px;
+	overflow: visible;
+}
+.Trazado_2_le_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_2_le {
+	overflow: visible;
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Mesial_lf_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 20.394px;
+	top: 2.908px;
+	overflow: visible;
+}
+.Componente_8__1_lg_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_3_lh_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_3_lh {
+	overflow: visible;
+	position: absolute;
+	width: 24.089px;
+	height: 9.606px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2415,7.2415) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Vestibular_li_Class {
+	position: absolute;
+	width: 24.081px;
+	height: 9.498px;
+	left: 2.92px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_1_lj_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_lj {
+	overflow: visible;
+	position: absolute;
+	width: 25.081px;
+	height: 10.502px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Oclusal_lk_Class {
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 7.74px;
+	top: 7.72px;
+	overflow: visible;
+}
+.Trazado_1_ll_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(3,3,3,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_ll {
+	overflow: visible;
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.selec-caras-diente-14_Class {
+	position: absolute;
+	width: 30px;
+	height: 29.78px;
+	left: 280px;
+	top: 322px;
+	overflow: visible;
+}
+.Distal_ln_Class {
+	position: absolute;
+	width: 9.694px;
+	height: 24.109px;
+	left: 0px;
+	top: 2.883px;
+	overflow: visible;
+}
+.Trazado_5_lo_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_5_lo {
+	overflow: visible;
+	position: absolute;
+	width: 24.109px;
+	height: 9.694px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2071,7.2071) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Palatina_lp_Class {
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	left: 3.007px;
+	top: 20.28px;
+	overflow: visible;
+}
+.Trazado_2_lq_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_2_lq {
+	overflow: visible;
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Mesial_lr_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 20.394px;
+	top: 2.908px;
+	overflow: visible;
+}
+.Componente_8__1_ls_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_3_lt_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_3_lt {
+	overflow: visible;
+	position: absolute;
+	width: 24.089px;
+	height: 9.606px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2415,7.2415) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Vestibular_lu_Class {
+	position: absolute;
+	width: 24.081px;
+	height: 9.498px;
+	left: 2.92px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_1_lv_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_lv {
+	overflow: visible;
+	position: absolute;
+	width: 25.081px;
+	height: 10.502px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Oclusal_lw_Class {
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 7.74px;
+	top: 7.72px;
+	overflow: visible;
+}
+.Trazado_1_lx_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(3,3,3,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_lx {
+	overflow: visible;
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.selec-caras-diente-13_Class {
+	position: absolute;
+	width: 30px;
+	height: 29.78px;
+	left: 322px;
+	top: 322px;
+	overflow: visible;
+}
+.Distal_lz_Class {
+	position: absolute;
+	width: 9.694px;
+	height: 24.109px;
+	left: 0px;
+	top: 2.883px;
+	overflow: visible;
+}
+.Trazado_5_l_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_5_l {
+	overflow: visible;
+	position: absolute;
+	width: 24.109px;
+	height: 9.694px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2071,7.2071) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Palatina_l_Class {
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	left: 3.007px;
+	top: 20.28px;
+	overflow: visible;
+}
+.Trazado_2_l_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_2_l {
+	overflow: visible;
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Mesial_l_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 20.394px;
+	top: 2.908px;
+	overflow: visible;
+}
+.Componente_8__1_l_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_3_l_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_3_l {
+	overflow: visible;
+	position: absolute;
+	width: 24.089px;
+	height: 9.606px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2415,7.2415) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Vestibular_l_Class {
+	position: absolute;
+	width: 24.081px;
+	height: 9.498px;
+	left: 2.92px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_1_l_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_l {
+	overflow: visible;
+	position: absolute;
+	width: 25.081px;
+	height: 10.502px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Oclusal_l_Class {
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 7.74px;
+	top: 7.72px;
+	overflow: visible;
+}
+.Trazado_1_ma_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(3,3,3,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_ma {
+	overflow: visible;
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.selec-caras-diente-12_Class {
+	position: absolute;
+	width: 30px;
+	height: 29.78px;
+	left: 364px;
+	top: 321px;
+	overflow: visible;
+}
+.Distal_mb_Class {
+	position: absolute;
+	width: 9.694px;
+	height: 24.109px;
+	left: 0px;
+	top: 2.883px;
+	overflow: visible;
+}
+.Trazado_5_mc_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_5_mc {
+	overflow: visible;
+	position: absolute;
+	width: 24.109px;
+	height: 9.694px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2071,7.2071) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Palatina_md_Class {
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	left: 3.007px;
+	top: 20.28px;
+	overflow: visible;
+}
+.Trazado_2_me_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_2_me {
+	overflow: visible;
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Mesial_mf_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 20.394px;
+	top: 2.908px;
+	overflow: visible;
+}
+.Componente_8__1_mg_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_3_mh_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_3_mh {
+	overflow: visible;
+	position: absolute;
+	width: 24.089px;
+	height: 9.606px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2415,7.2415) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Vestibular_mi_Class {
+	position: absolute;
+	width: 24.081px;
+	height: 9.498px;
+	left: 2.92px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_1_mj_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_mj {
+	overflow: visible;
+	position: absolute;
+	width: 25.081px;
+	height: 10.502px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Oclusal_mk_Class {
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 7.74px;
+	top: 7.72px;
+	overflow: visible;
+}
+.Trazado_1_ml_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(3,3,3,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_ml {
+	overflow: visible;
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.selec-caras-diente-11_Class {
+	position: absolute;
+	width: 30px;
+	height: 29.78px;
+	left: 406px;
+	top: 321px;
+	overflow: visible;
+}
+.Distal_mn_Class {
+	position: absolute;
+	width: 9.694px;
+	height: 24.109px;
+	left: 0px;
+	top: 2.883px;
+	overflow: visible;
+}
+.Trazado_5_mo_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_5_mo {
+	overflow: visible;
+	position: absolute;
+	width: 24.109px;
+	height: 9.694px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2071,7.2071) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Palatina_mp_Class {
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	left: 3.007px;
+	top: 20.28px;
+	overflow: visible;
+}
+.Trazado_2_mq_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_2_mq {
+	overflow: visible;
+	position: absolute;
+	width: 24.065px;
+	height: 9.5px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Mesial_mr_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 20.394px;
+	top: 2.908px;
+	overflow: visible;
+}
+.Componente_8__1_ms_Class {
+	position: absolute;
+	width: 9.606px;
+	height: 24.089px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_3_mt_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_3_mt {
+	overflow: visible;
+	position: absolute;
+	width: 24.089px;
+	height: 9.606px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-7.2415,7.2415) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Vestibular_mu_Class {
+	position: absolute;
+	width: 24.081px;
+	height: 9.498px;
+	left: 2.92px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_1_mv_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_mv {
+	overflow: visible;
+	position: absolute;
+	width: 25.081px;
+	height: 10.502px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Oclusal_mw_Class {
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 7.74px;
+	top: 7.72px;
+	overflow: visible;
+}
+.Trazado_1_mx_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(3,3,3,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1_mx {
+	overflow: visible;
+	position: absolute;
+	width: 14.52px;
+	height: 14.321px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
