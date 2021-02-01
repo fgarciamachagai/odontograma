@@ -82,12 +82,32 @@
     left: 13px;
     z-index: 1;
     background-color: #fff;
+    cursor: pointer;
 }
 .selectorCentro:hover{
     background-color: aquamarine;
 }
 
 .selectorTop {
+    position: absolute;
+    width: 26px;
+    height: 0px;
+    border-right: 10px solid transparent;
+    border-left: 10px solid transparent;
+    border-top: 9px solid transparent;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    
+    top: 5px;
+    left: 8px;
+    z-index: 2;
+    cursor: pointer;
+}
+.selectorTop:hover ~ .fondoSelectorTop:before{background-color: aquamarine;}
+.selectorTop:hover ~ .fondoSelectorTop:after{background-color: aquamarine;}
+.fondoSelectorTop {
     position: absolute;
     width: 17px;
     height: 10px;
@@ -96,18 +116,7 @@
 /*    background-color: transparent;
     border: none;*/
 }
-.selectorTop1 {
-    position: absolute;
-    width: 30px;
-    height: 10px;
-    top: 5px;
-    left: 0px;
-    background-color: transparent;
-    border: none;
-    z-index: 2;
-    cursor: pointer;
-}
-.selectorTop:before {
+.fondoSelectorTop:before {
     content: " ";
     position: absolute;
     width: 17px;
@@ -123,7 +132,7 @@
     border-bottom-right-radius: 12px;
     border-top-left-radius: 5px;
 }
-.selectorTop:after {
+.fondoSelectorTop:after {
     content: " ";
     position: absolute;
     width: 17px;
@@ -139,17 +148,33 @@
     border-top-right-radius: 5px;
 }
 
-.selectorTop1:hover ~ .selectorTop:before{background-color: aquamarine;}
-.selectorTop1:hover ~ .selectorTop:after{background-color: aquamarine;}
-
 .selectorDer {
+    position: absolute;
+    width: 0px;
+    height: 22px;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    border-left: 9px solid transparent;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 10px;
+    
+    top: 10px;
+    left: 28px;
+    z-index: 2;
+    cursor: pointer;
+}
+.selectorDer:hover ~ .fondoSelectorDer:before{background-color: aquamarine;}
+.selectorDer:hover ~ .fondoSelectorDer:after{background-color: aquamarine;}
+.fondoSelectorDer {
     position: absolute;
     width: 17px;
     height: 10px;
     top: 13px;
     left: 24px;
 }
-.selectorDer:before {
+.fondoSelectorDer:before {
     content: " ";
     position: absolute;
     width: 17px;
@@ -165,7 +190,7 @@
     border-bottom-right-radius: 12px;
     border-top-left-radius: 5px;
 }
-.selectorDer:after {
+.fondoSelectorDer:after {
     content: " ";
     position: absolute;
     width: 17px;
@@ -185,12 +210,31 @@
 
 .selectorBottom {
     position: absolute;
+    width: 26px;
+    height: 0px;
+    border-right: 10px solid transparent;
+    border-left: 10px solid transparent;
+    border-bottom: 9px solid transparent;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    
+    top: 28px;
+    left: 8px;
+    z-index: 2;
+    cursor: pointer;
+}
+.selectorBottom:hover ~ .fondoSelectorBottom:before{background-color: aquamarine;}
+.selectorBottom:hover ~ .fondoSelectorBottom:after{background-color: aquamarine;}
+.fondoSelectorBottom {
+    position: absolute;
     width: 17px;
     height: 10px;
     top: 27px;
     left: 8px;
 }
-.selectorBottom:before {
+.fondoSelectorBottom:before {
     content: " ";
     position: absolute;
     width: 17px;
@@ -206,7 +250,7 @@
     border-top-right-radius: 12px;
     border-bottom-left-radius: 5px;
 }
-.selectorBottom:after {
+.fondoSelectorBottom:after {
     content: " ";
     position: absolute;
     width: 17px;
@@ -224,12 +268,31 @@
 
 .selectorIzq {
     position: absolute;
+    width: 0px;
+    height: 22px;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    border-right: 9px solid transparent;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 40px;
+    
+    top: 10px;
+    left: 5px;
+    z-index: 2;
+    cursor: pointer;
+}
+.selectorIzq:hover ~ .fondoSelectorIzq:before{background-color: aquamarine;}
+.selectorIzq:hover ~ .fondoSelectorIzq:after{background-color: aquamarine;}
+.fondoSelectorIzq {
+    position: absolute;
     width: 17px;
     height: 10px;
     top: 13px;
     left: 1px;
 }
-.selectorIzq:before {
+.fondoSelectorIzq:before {
     content: " ";
     position: absolute;
     width: 17px;
@@ -246,7 +309,7 @@
     border-bottom-right-radius: 12px;
     border-top-left-radius: 5px;
 }
-.selectorIzq:after {
+.fondoSelectorIzq:after {
     content: " ";
     position: absolute;
     width: 17px;
