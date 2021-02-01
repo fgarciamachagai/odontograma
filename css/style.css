@@ -22,16 +22,16 @@ body {
 }
 
 body {
-  font: 100%/1.5 "Alegreya Sans", sans-serif;
+  /*font: 100%/1.5 "Alegreya Sans", sans-serif;
   background: #d3d0c9;
-  color: #100a09;
+  color: #100a09;*/
 }
 
 @media (min-width: 800px) {
   body {
-    padding: 0 0.5rem 0;
+    /*padding: 0 0.5rem 0;
     padding-left: -webkit-calc(100% - 23.625rem);
-    padding-left: calc(100% - 23.625rem);
+    padding-left: calc(100% - 23.625rem);*/
   }
 }
 
@@ -182,7 +182,7 @@ header iframe {
   right: 10px;
   bottom: 10px;
   background-color: #d3d0c9;
-  background-image: url(pics/pittsburgh.jpg);
+  /*background-image: url(pics/pittsburgh.jpg);*/
   background-size: cover;
   background-position: center center;
 }

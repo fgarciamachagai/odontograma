@@ -4,7 +4,7 @@ $(document).ready(function() {
   
   var carousel;
   var carouselOptions = {
-    margin: 20,
+    margin: 0,
     nav: true,
     dots: true,
     slideBy: 'page',
@@ -98,19 +98,39 @@ $(document).ready(function() {
           var pageIndex = Math.floor(slidesNb / perPage);
           var fakeColsNb = pageIndex * colsNb + (slidesNb >= (pageIndex * perPage + colsNb) ? colsNb : (slidesNb % colsNb));
 
+//        alert(perPage);
+//        alert(pageIndex);
+//        alert(fakeColsNb);
           //Then populate with needed html markup
           var count = 0;
           for (var i = 0; i < fakeColsNb; i++) {
             //For each column, create a new wrapper div
             var fakeCol = $('<div class="fake-col-wrapper"></div>').appendTo(el);
             for (var j = 0; j < rowsNb; j++) {
-              //For each row in said column, calculate which slide should be present
-              var index = Math.floor(count / perPage) * perPage + (i % colsNb) + j * colsNb;
-              if (index < slidesNb) {
-                //If said slide exists, move it under wrapper div
-                slides.filter('[data-slide-index=' + index + ']').detach().appendTo(fakeCol);
-              }
-              count++;
+                //Truco para ordenar de forma fija dónde debe ir cada slide cuando
+                //el número de ítems a mostrar por página es mayor a UNO
+                if(perPage > 1)
+                {
+                    if(i == 0 && j == 0)
+                        slides.filter('[data-slide-index=0]').detach().appendTo(fakeCol);
+                    else if(i == 1 && j == 0)
+                        slides.filter('[data-slide-index=1]').detach().appendTo(fakeCol);
+                    else if(i == 1 && j == 1)
+                        slides.filter('[data-slide-index=2]').detach().appendTo(fakeCol);
+                    else if(i == 0 && j == 1)
+                        slides.filter('[data-slide-index=3]').detach().appendTo(fakeCol);
+                }
+                else
+                {
+                  //For each row in said column, calculate which slide should be present
+                  var index = Math.floor(count / perPage) * perPage + (i % colsNb) + j * colsNb;
+                  if (index < slidesNb) {
+                    //If said slide exists, move it under wrapper div
+                    slides.filter('[data-slide-index=' + index + ']').detach().appendTo(fakeCol);
+                  }
+                }
+              
+                count++;
             }
           }
           //end of 'smart' part
