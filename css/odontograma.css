@@ -2,9 +2,23 @@
     .slide{
         text-align: center !important;
     }
+    
+    .cuadrante3, .cuadrante4{
+        margin-top: 20px;
+    }
 }
 
+:root {
+    --colorDientesFondo: #fff;
+    --colorDientesHover: #d2dfd2;
+    --colorDientesActive: #3cdd55;
+    --colorDientesBorde: #000;
+    --colorCarasFondo: #fff;
+    --colorCarasHover: #d2dfd2;
+    --colorCarasActive: #3cdd55;
+    --colorCarasBorde: #000;
 
+}
 
 .slide {
     /*font-size: 50px;
@@ -15,30 +29,35 @@
 
 .cuadrante1{
     text-align: right;
+    padding: 0 2px 5px 0;
 }
 
 .cuadrante2{
     text-align: left;
+    padding: 0 0 5px 2px;
 }
 
 .cuadrante3{
     text-align: left;
+    padding: 0 0 0 2px;
 }
 
 .cuadrante4{
     text-align: right;
+    padding: 0 2px 0 0;
 }
 
 .contenedorDientes{
-    height: auto;
+    height: 165px;
     display: inline-block;
     text-align: center;
-    border: 1px solid black;
+    margin: 0 -2px 0 -2px;
+    /*border: 1px solid black;*/
 }
 
 .contenedorNrosDientes{
     height: 20px;
-    margin-top: -3px;
+    /*margin-top: -3px;*/
     background-color: transparent;
     vertical-align: middle;
     text-align: center;
@@ -49,6 +68,7 @@
     position: relative;
     text-align: center;
     /*border: solid 1px #000;*/
+    margin: 0px;
 }
 
 .contenedorSelectorCaras{
@@ -68,7 +88,7 @@
     left: 0px;
     right: 0px;
     bottom: 0px;
-    border: 2px solid #000;
+    border: 2px solid var(--colorCarasBorde);
     border-radius: 10px;
 }
 
@@ -81,11 +101,11 @@
     top: 13px;
     left: 13px;
     z-index: 1;
-    background-color: #fff;
+    background-color: var(--colorCarasFondo);
     cursor: pointer;
 }
 .selectorCentro:hover{
-    background-color: aquamarine;
+    background-color: var(--colorCarasHover);
 }
 
 .selectorTop {
@@ -105,8 +125,8 @@
     z-index: 2;
     cursor: pointer;
 }
-.selectorTop:hover ~ .fondoSelectorTop:before{background-color: aquamarine;}
-.selectorTop:hover ~ .fondoSelectorTop:after{background-color: aquamarine;}
+.selectorTop:hover ~ .fondoSelectorTop:before{background-color: var(--colorCarasHover);}
+.selectorTop:hover ~ .fondoSelectorTop:after{background-color: var(--colorCarasHover);}
 .fondoSelectorTop {
     position: absolute;
     width: 17px;
@@ -127,8 +147,8 @@
     -ms-transform: skew(45deg);
     -o-transform: skew(45deg);
     transform: skew(45deg);
-    border-left: solid 2px #000;
-    background-color: #fff;
+    border-left: solid 2px var(--colorCarasBorde);
+    background-color: var(--colorCarasFondo);
     border-bottom-right-radius: 12px;
     border-top-left-radius: 5px;
 }
@@ -142,8 +162,8 @@
     -ms-transform: skew(-45deg);
     -o-transform: skew(-45deg);
     transform: skew(-45deg);
-    border-right: solid 2px #000;
-    background-color: #fff;
+    border-right: solid 2px var(--colorCarasBorde);
+    background-color: var(--colorCarasFondo);
     border-bottom-left-radius: 12px;
     border-top-right-radius: 5px;
 }
@@ -165,8 +185,8 @@
     z-index: 2;
     cursor: pointer;
 }
-.selectorDer:hover ~ .fondoSelectorDer:before{background-color: aquamarine;}
-.selectorDer:hover ~ .fondoSelectorDer:after{background-color: aquamarine;}
+.selectorDer:hover ~ .fondoSelectorDer:before{background-color: var(--colorCarasHover);}
+.selectorDer:hover ~ .fondoSelectorDer:after{background-color: var(--colorCarasHover);}
 .fondoSelectorDer {
     position: absolute;
     width: 17px;
@@ -185,8 +205,8 @@
     -ms-transform: rotate(90deg) skew(45deg);
     -o-transform: rotate(90deg) skew(45deg);
     transform: rotate(90deg) skew(45deg);
-    border-left: solid 2px #000;
-    background-color: #fff;
+    border-left: solid 2px var(--colorCarasBorde);
+    background-color: var(--colorCarasFondo);
     border-bottom-right-radius: 12px;
     border-top-left-radius: 5px;
 }
@@ -202,8 +222,8 @@
     -ms-transform: rotate(90deg) skew(-45deg);
     -o-transform: rotate(90deg) skew(-45deg);
     transform: rotate(90deg) skew(-45deg);
-    border-right: solid 2px #000;
-    background-color: #fff;
+    border-right: solid 2px var(--colorCarasBorde);
+    background-color: var(--colorCarasFondo);
     border-bottom-left-radius: 12px;
     border-top-right-radius: 5px;
 }
@@ -225,8 +245,8 @@
     z-index: 2;
     cursor: pointer;
 }
-.selectorBottom:hover ~ .fondoSelectorBottom:before{background-color: aquamarine;}
-.selectorBottom:hover ~ .fondoSelectorBottom:after{background-color: aquamarine;}
+.selectorBottom:hover ~ .fondoSelectorBottom:before{background-color: var(--colorCarasHover);}
+.selectorBottom:hover ~ .fondoSelectorBottom:after{background-color: var(--colorCarasHover);}
 .fondoSelectorBottom {
     position: absolute;
     width: 17px;
@@ -245,8 +265,8 @@
     -ms-transform: skew(-45deg);
     -o-transform: skew(-45deg);
     transform: skew(-45deg);
-    border-left: solid 2px #000;
-    background-color: #fff;
+    border-left: solid 2px var(--colorCarasBorde);
+    background-color: var(--colorCarasFondo);
     border-top-right-radius: 12px;
     border-bottom-left-radius: 5px;
 }
@@ -260,12 +280,11 @@
     -ms-transform: skew(45deg);
     -o-transform: skew(45deg);
     transform: skew(45deg);
-    border-right: solid 2px #000;
-    background-color: #fff;
+    border-right: solid 2px var(--colorCarasBorde);
+    background-color: var(--colorCarasFondo);
     border-top-left-radius: 12px;
     border-bottom-right-radius: 5px;
 }
-
 
 .selectorIzq {
     position: absolute;
@@ -284,8 +303,8 @@
     z-index: 2;
     cursor: pointer;
 }
-.selectorIzq:hover ~ .fondoSelectorIzq:before{background-color: aquamarine;}
-.selectorIzq:hover ~ .fondoSelectorIzq:after{background-color: aquamarine;}
+.selectorIzq:hover ~ .fondoSelectorIzq:before{background-color: var(--colorCarasHover);}
+.selectorIzq:hover ~ .fondoSelectorIzq:after{background-color: var(--colorCarasHover);}
 .fondoSelectorIzq {
     position: absolute;
     width: 17px;
@@ -305,8 +324,8 @@
     -ms-transform: rotate(-90deg) skew(45deg);
     -o-transform: rotate(-90deg) skew(45deg);
     transform: rotate(-90deg) skew(45deg);
-    border-left: solid 2px #000;
-    background-color: #fff;
+    border-left: solid 2px var(--colorCarasBorde);
+    background-color: var(--colorCarasFondo);
     border-bottom-right-radius: 12px;
     border-top-left-radius: 5px;
 }
@@ -321,213 +340,182 @@
     -ms-transform: rotate(-90deg) skew(-45deg);
     -o-transform: rotate(-90deg) skew(-45deg);
     transform: rotate(-90deg) skew(-45deg);
-    border-right: solid 2px #000;
-    background-color: #fff;
+    border-right: solid 2px var(--colorCarasBorde);
+    background-color: var(--colorCarasFondo);
     border-bottom-left-radius: 12px;
     border-top-right-radius: 5px;
 }
 
-
-
-
-
-
-
-
-/*.selectorCaras{
-    width: 30px;
-    height: 30px;
-    text-align: center;
-    background-color: #d3d0c9;
-}*/
-
 .diente {
-    /*overflow: visible;*/
-	/*position: absolute;
-	/*left: 107.413px;
-	top: 449.271px;*/
-	/*transform: matrix(1,0,0,1,0,0);*/
-    width: 40px;
+    width: 44px;
     text-align: center;
+    margin: 0 1px 0 1px;
 }
 .diente_Class {
-    fill: rgba(179,255,205,1);
-	stroke: rgba(0,0,0,1);
+    /*fill: rgba(179,255,205,1);
+	stroke: rgba(0,0,0,1);*/
+    
 	stroke-width: 1px;
 	stroke-linejoin: miter;
 	stroke-linecap: butt;
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
+    
+    cursor: pointer;
+    fill: var(--colorDientesFondo);
+    stroke: var(--colorDientesBorde);
+}
+.diente_Class:hover {
+    fill: var(--colorDientesHover);
+}
+.diente_Class:active {
+    fill: var(--colorDientesActive);
 }
 
 .diente-48 {
 	/*width: 35.884px;*/
-	height: 67.247px;
-    margin-top: 8px;
+	height: 68px;
 }
 
 .diente-47 {
 	/*width: 38.012px;*/
-	height: 69.987px;
-    margin-top: 10px;
+	height: 71px;
 }
 
 .diente-46 {
 	/*width: 41.126px;*/
-	height: 73.977px;
-    margin-top: 11px;
+	height: 74px;
 }
 
 .diente-45 {
 	/*width: 24.061px;*/
-	height: 82.894px;
-    margin-top: 5px;
+	height: 83px;
 }
 .diente-44 {
 	/*width: 22.931px;*/
-	height: 78.172px;
-    margin-top: 6px;
+	height: 79px;
 }
 .diente-43 {
 	/*width: 27.182px;*/
-	height: 91.312px;
-    margin-top: 2px;
+	height: 93px;
 }
 .diente-42 {
 	/*width: 22.338px;*/
-	height: 77.788px;
-    margin-top: 1px;
+	height: 78px;
 }
 .diente-41 {
 	/*width: 18.401px;*/
-	height: 75.316px;
-    margin-top: 0px;
+	height: 76px;
 }
 .diente-38 {
 	/*width: 35.884px;*/
-	height: 67.247px;
-    margin-top: 8px;
+	height: 68px;
 }
 .diente-37 {
 	/*width: 38.012px;*/
-	height: 69.987px;
-    margin-top: 10px;
+	height: 71px;
 }
 .diente-36 {
 	/*width: 41.126px;*/
-	height: 73.977px;
-    margin-top: 11px;
+	height: 74px;
 }
 .diente-35 {
 	/*width: 24.061px;*/
-	height: 82.894px;
-    margin-top: 5px;
+	height: 83px;
 }
 .diente-34 {
 	/*width: 22.931px;*/
-	height: 78.172px;
-    margin-top: 6px;
+	height: 79px;
 }
 .diente-33 {
 	/*width: 27.182px;*/
-	height: 91.312px;
-    margin-top: 2px;
+	height: 93px;
 }
 .diente-32 {
 	/*width: 22.338px;*/
-	height: 77.788px;
-    margin-top: 1px;
+	height: 78px;
 }
 .diente-31 {
 	/*width: 18.401px;*/
-	height: 75.316px;
-    margin-top: 0px;
+	height: 76px;
 }
 .diente-28 {
 	/*width: 33.719px;*/
-	height: 64.818px;
-    margin-top: 18px;
+	height: 65px;
+    margin-top: 35px;
 }
 .diente-27 {
 	/*width: 36.449px;*/
-	height: 72.79px;
-    margin-top: 8px;
+	height: 73px;
+    margin-top: 27px;
 }
 .diente-26 {
 	/*width: 41.867px;*/
-	height: 75.731px;
-    margin-top: 4px;
+	height: 76px;
+    margin-top: 24px;
 }
 .diente-25 {
 	/*width: 23.086px;*/
-	height: 72.903px;
-    margin-top: 12px;
+	height: 73px;
+    margin-top: 27px;
 }
 .diente-24 {
 	/*width: 24.041px;*/
-	height: 72.387px;
-    margin-top: 13px;
+	height: 72px;
+    margin-top: 28px;
 }
 .diente-23 {
 	/*width: 31.391px;*/
-	height: 91.297px;
-    margin-top: 0px;
+	height: 91px;
+    margin-top: 9px;
 }
 .diente-22 {
 	/*width: 22.769px;*/
-	height: 74.713px;
-    margin-top: 20px;
+	height: 75px;
+    margin-top: 25px;
 }
 .diente-21 {
 	/*width: 28.369px;*/
-	height: 79.528px;
-    margin-top: 14px;
+	height: 81px;
+    margin-top: 19px;
 }
 .diente-18 {
 	/*width: 33.719px;*/
 	height: 65px;
-    margin-top: 18px;
-    margin-bottom: 17px;
+    margin-top: 35px;
 }
 .diente-17 {
 	/*width: 36.449px;*/
 	height: 73px;
-    margin-top: 8px;
-    margin-bottom: 19px;
+    margin-top: 27px;
 }
 .diente-16 {
 	/*width: 41.867px;*/
 	height: 76px;
-    margin-top: 4px;
-    margin-bottom: 20px;
+    margin-top: 24px;
 }
 .diente-15 {
 	/*width: 23.086px;*/
 	height: 73px;
-    margin-top: 12px;
-    margin-bottom: 15px;
+    margin-top: 27px;
 }
 .diente-14 {
 	/*width: 24.041px;*/
 	height: 72px;
-    margin-top: 13px;
-    margin-bottom: 15px;
+    margin-top: 28px;
 }
 .diente-13 {
 	/*width: 31.391px;*/
 	height: 91px;
-    margin-top: 0px;
-    margin-bottom: 9px;
+    margin-top: 9px;
 }
 .diente-12 {
 	/*width: 22.769px;*/
 	height: 75px;
-    margin-top: 20px;
-    margin-bottom: 5px;
+    margin-top: 25px;
 }
 .diente-11 {
 	/*width: 28.369px;*/
-	height: 80px;
-    margin-top: 14px;
-    margin-bottom: 6px;
+	height: 81px;
+    margin-top: 19px;
 }
